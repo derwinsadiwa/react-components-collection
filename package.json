@@ -1,0 +1,19 @@
+{
+  "name": "react-components-collection",
+  "version": "1.0.0",
+  "description": "Collection of React Components",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derwinsadiwa/react-components-collection.git"
+  },
+  "author": "dsadiwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derwinsadiwa/react-components-collection/issues"
+  },
+  "homepage": "https://github.com/derwinsadiwa/react-components-collection#readme"
+}
